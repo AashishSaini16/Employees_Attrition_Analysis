@@ -3,7 +3,7 @@ This repository contains Jupyter notebooks and Python scripts for analyzing empl
 
 ### Dataset Source:  
 
-The dataset used for this project is available on Kaggle: IBM HR Analytics Attrition & Performance  
+The dataset used for this project is available on Kaggle: IBM HR Analytics Attrition & Performance(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 Please refer to the original source for more details on the data and its collection methodology.
 
 ### Key Features:
