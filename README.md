@@ -40,8 +40,13 @@ Please refer to the original source for more details on the data and its collect
 
 - Converted categorical attributes to numerical format where necessary.
 - Computed and visualized the correlation matrix to identify relationships between different factors and employee attrition.
+![Correlation_Matrix](https://github.com/AashishSaini16/Employees_Attrition_Analysis/blob/main/Correlation_Matrix.png)
+![Top_Features](https://github.com/AashishSaini16/Employees_Attrition_Analysis/blob/main/Top_5_Feature.png)
+
 
 ### Power BI Report:
 
 - Created an interactive Power BI report to provide visual insights into the data.
 - The report includes key metrics, trends, and visualizations related to employee attrition.
+![PowerBI_Report](https://github.com/AashishSaini16/Employees_Attrition_Analysis/blob/main/PowerBI_Report1.png)
+![PowerBI_Report](https://github.com/AashishSaini16/Employees_Attrition_Analysis/blob/main/PowerBI_Report2.png)
